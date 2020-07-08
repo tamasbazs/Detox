@@ -48,7 +48,7 @@ module.exports = {
       "binaryPath": "android/app/build/outputs/apk/release/app-release.apk",
       "build": "cd android ; ./gradlew assembleRelease assembleAndroidTest -DtestBuildType=release ; cd -",
       "type": "android.attached",
-      "name": "localhost:5557"
+      "name": "localhost:49271"
     }
   }
 };
